@@ -1,4 +1,0 @@
-# CLI 版零依赖；以下仅 API 服务与测试需要
-fastapi>=0.110
-uvicorn>=0.29
-httpx2  # starlette TestClient 依赖，仅测试用
